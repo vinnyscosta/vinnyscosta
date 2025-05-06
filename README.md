@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 <!--
 **vinnyscosta/vinnyscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
